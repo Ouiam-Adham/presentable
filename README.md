@@ -1,2 +1,2 @@
 # presentable
-project de synthese
+projet de synthèse 
